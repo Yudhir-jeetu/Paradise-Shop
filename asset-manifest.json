@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Paradise-Shop/static/css/main.f8285958.css",
-    "main.js": "/Paradise-Shop/static/js/main.7c0b4b6b.js",
+    "main.js": "/Paradise-Shop/static/js/main.c08e5790.js",
     "index.html": "/Paradise-Shop/index.html",
     "main.f8285958.css.map": "/Paradise-Shop/static/css/main.f8285958.css.map",
-    "main.7c0b4b6b.js.map": "/Paradise-Shop/static/js/main.7c0b4b6b.js.map"
+    "main.c08e5790.js.map": "/Paradise-Shop/static/js/main.c08e5790.js.map"
   },
   "entrypoints": [
     "static/css/main.f8285958.css",
-    "static/js/main.7c0b4b6b.js"
+    "static/js/main.c08e5790.js"
   ]
 }
